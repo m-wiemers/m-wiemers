@@ -1,5 +1,5 @@
 <h1 align="center">Hi ✋, I'm Marcel</h1>
-<h3 align="center">I am a web developer in the learning phase</h3>
+<h3 align="center">I am a junior web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m-wiemers&label=Profile%20views&color=0e75b6&style=flat" alt="m-wiemers" /> </p>
 
